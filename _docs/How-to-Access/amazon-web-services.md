@@ -1,6 +1,6 @@
 ---
 title: Amazon Web Services
-category: Contact Syncing
+category: How to Access
 order: 1
 ---
 
